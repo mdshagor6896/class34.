@@ -1,0 +1,225 @@
+    
+@media (max-width:1200px) {
+    .banner-section {
+        padding: 158px 0;
+    }
+    .banner-section a{
+        transform: translateY(-274px);
+    }
+    .service-section .service-item {
+        width: 17%;
+        margin: 49px 0 30px 75px;
+        padding: 6px;
+        box-sizing: border-box;
+    }
+    .service-section .service-item span {
+        font-size: 36px;
+       
+    }
+}
+    
+@media (max-width:992px) {
+
+    .heder-logo a h4 {
+        font-size: 20px;
+        margin-top: 9px;
+    }
+    .heder-menu ul li a {
+
+        font-size: 14px;
+
+    }
+    .banner-section {
+        padding: 130px 0;
+    }
+    .banner-section h1 {
+        word-spacing: 9px;
+        font-size: 35px;
+    }
+    .banner-section h5 {
+        margin-top: 10px;
+        font-size: 14px;
+    }
+    .banner-section a {
+        padding: 5px 9px;
+        font-size: 16px;
+    }
+    .service-section .service-item {
+        width: 18%;
+        margin: 54px 0 2px 58px;
+    }
+    .service-section .service-item h5 {
+        font-weight: 800;
+        color: rgb(61, 61, 61);
+        font-size: 15px;
+        margin: 10px 0 10px 0;
+    }
+    .service-section .service-item p {
+        font-size: 14px;
+    }
+    .banner-section a{
+        transform: translateY(-225px);
+    }
+}
+
+@media (max-width:900px) {
+    .service-section .service-item {
+        width: 20%;
+        margin: 54px 0 2px 26px;
+    }
+    
+}
+@media (max-width:800px) {
+    .heder-menu ul li a {
+        margin-left: 5px;
+        
+    }
+    
+}
+@media (max-width:768px) {
+    .heder-menu {
+        width: 100%;
+        margin-bottom: -14px;
+    }
+    .heder-logo {
+        width: 100%;
+        text-align: center;
+    }
+    .heder-menu ul {
+
+        text-align: center;
+    }
+    .service-section .service-item {
+        width: 23%;
+        margin: 54px 0 2px 138px;
+    }
+    .heder-menu ul li {
+        float: inherit;
+        margin-left: -4px;
+        display: inline-block;
+    }
+
+}
+@media (max-width:670px) {
+    .heder-menu ul {
+        /* margin-left: 0px; */
+    }
+    .heder-menu ul li a {
+        font-size: 13px;
+    }
+    .service-section .service-item {
+        width: 31%;
+        margin: 54px 0 2px 78px;
+    }
+    .contact-section p {
+        font-size: 13px;
+
+    }
+    .contact-section .contact-table {
+
+        width: 30%;
+        margin-left: 15px;
+    }
+    .contact-section .contact-table p {
+        font-size: 13px;
+
+    }
+
+}
+@media (max-width:576px) {
+    .banner-section a {
+        transform: translateY(-137px);
+    }
+
+    .heder-menu ul li a {
+        font-size: 12px;
+    }
+    .main-header {
+
+        padding: 0px 10px;
+
+    }
+    .heder-menu ul {
+     padding: 0;
+     /* margin-left: auto; */
+    }
+
+    .heder-menu ul li a {
+        margin-left: 4px;
+        padding: 15px 6px;
+    }
+    .banner-section h1 {
+        word-spacing: 12px;
+        font-size: 26px;
+    }
+    .banner-section h5 {
+        margin-top: 12px;
+        font-size: 10px;
+    }
+    .banner-section a {
+        padding: 5px 9px;
+        font-size: 11px;
+    }
+    .banner-section {
+        padding: 66px 0;
+    }
+    .service-section {
+        padding: 25px 0;
+       
+    }
+    .service-section p {
+        font-size: 12px;
+
+    }
+    .service-section h3 {
+
+        margin-bottom: 12px;
+    }
+    .service-section .service-item {
+        width: 60%;
+        margin: 26px 0 2px 78px;
+    }
+    .service-section .service-item p {
+        font-size: 13px;
+    }
+    .about-section {
+        padding: 24px 40px;
+    }
+    .about-section p {
+        font-size: 13px;
+    }
+    .about-section .img-section {
+        width: 100%;
+        float: inherit;
+    }
+    .about-section .text-section {
+        width: 100%;
+        float: inherit;
+
+        margin-top: 30px;
+    }
+    .about-section .text-section p {
+        font-size: 12px;
+        margin-bottom: 0;
+    }
+    .contact-section {
+        padding: 16px 0;
+
+    }
+    .contact-section p {
+        font-size: 12px;
+        margin-bottom: 0;
+    }
+    .contact-section .contact-table {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .footer-section ul {
+
+        padding: 0;
+    }
+    .footer-bottom {
+
+        font-size: 12px;
+    }
+}
